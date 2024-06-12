@@ -1,1 +1,1 @@
-# LR MATE 200iD
+# LR MATE 200iD - forward and inverse kinematics
